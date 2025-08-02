@@ -39,7 +39,7 @@ import {
   WorkExperienceForm,
 } from "./Forms";
 import { dataURLtoFile } from "../utils/helper";
-import "./a4.css";
+import "./A4.css";
 
 // RESIZE OBSERVER HOOK
 const useResizeObserver = () => {
