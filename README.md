@@ -1,12 +1,72 @@
-# React + Vite
+# 🧑‍💼 Resume Builder App – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and feature-rich frontend for the Resume Builder App built with **React.js (Vite)** and styled using **Tailwind CSS**. It enables users to register, log in, and manage resumes with a clean and intuitive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 User Authentication (Login/Register)
+- 🧾 Create, View, Edit & Delete Resumes
+- 🖼 Upload Images (Profile/Resume)
+- 🌈 Responsive UI with Tailwind CSS
+- 🔗 API Integration using Axios
+- 🔒 JWT Token Handling with Axios Interceptors
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+👉 [Frontend Live](https://resume-builder-mayank.vercel.app/)  
+🔗 Backend: [https://resume-building-app-backend-qawea1vtf.vercel.app](https://resume-building-app-backend-qawea1vtf.vercel.app)
+
+---
+
+## 🖼️ Screenshots
+
+### 🔐 Login Page  
+![Login Page](./screenshots/login.png)
+
+### 🧾 Resume Dashboard  
+![Dashboard](./screenshots/dashboard.png)
+
+### 📝 Resume Editor  
+![Resume Editor](./screenshots/resume-editor.png)
+
+> 📝 Make sure the `screenshots` folder is placed in the root of this frontend project.
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js (Vite)
+- React Router DOM
+- Axios
+- Tailwind CSS
+- JWT (with Axios Interceptor)
+- Vercel (Deployment)
+
+---
+
+## 🧪 Getting Started
+
+### 🔨 Prerequisites
+
+- Node.js (v16 or later)
+- npm or yarn
+
+---
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/your-username/resume-builder-frontend.git
+cd resume-builder-frontend
+npm install
+```
+
+### 📝 License
+This project is open-source and available under the MIT License.
+
+### 🙋‍♂️ Author
+Made with ❤️ by Mayank Satish Lakkewar
