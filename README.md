@@ -33,8 +33,6 @@ A responsive and feature-rich frontend for the Resume Builder App built with **R
 ### 📝 Resume Editor  
 ![Resume Editor](./screenshots/resume-editor.png)
 
-> 📝 Make sure the `screenshots` folder is placed in the root of this frontend project.
-
 ---
 
 ## 🛠️ Tech Stack
